@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>изображение_2023-04-10_135745228.png</file>
+        <file>изображение_2023-04-10_135944216.png</file>
+        <file>png-transparent-pencil-editing-icon-big-pencil-s-angle-pencil-orange.png</file>
+        <file>png-transparent-signs-info-information-computer-symbol-icon-orange-computer-orange-laptop-orange-information.png</file>
+        <file>png-transparent-subject-international-english-computer-icons-symbol-english-miscellaneous-blue-english.png</file>
+        <file>544-5448563_transparent-background-book-icon-clipart.png</file>
+    </qresource>
+</RCC>
